@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular-custom-class-style-ditective';
+
+  active: boolean = true;
 }
